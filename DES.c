@@ -1,3 +1,14 @@
+/*
+    Programa de Cifrado DES
+    Integrantes:
+    - Labastida Vázquez Fernando
+    - Badillo Aguilar Diego
+    - Salgado Valdés Andrés
+    - Jiménez Hernández Diana
+    - Rodríguez Estrella Mairol Elizabeth
+*/
+
+
 // Implementación completa y del algoritmo DES
 #include <stdio.h>
 #include <string.h>
